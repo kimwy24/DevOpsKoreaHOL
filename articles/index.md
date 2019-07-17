@@ -2,7 +2,7 @@
 
 TASK Auto complete
 
-d
+2017 07 17 실습
 
 # Azure DevOps HOL
 
